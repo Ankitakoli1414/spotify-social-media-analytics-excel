@@ -1,4 +1,5 @@
 Overview
+
 This folder contains the summarized findings and key insights derived from the cleaned social media data.
 These reports provide actionable recommendations to optimize Spotify’s content strategy, evaluate campaigns, and improve platform performance.
 
