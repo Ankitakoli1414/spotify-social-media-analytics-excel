@@ -12,7 +12,6 @@ Built an Excel-based Social Media Intelligence dashboard by consolidating spotif
 
 ## Files Overview
 - data/: Raw and cleaned datasets
-- analysis/: Pivot-based analysis
-- dashboard/: Final Excel dashboard
+- analysis &  dashboard/: Final Excel dashboard
 - insights/: Key findings and recommendations
 
